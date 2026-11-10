@@ -1,8 +1,8 @@
 # Dark Souls III Visual Reforged
 
-**[Скачать установщик для Windows · 35,5 КиБ](https://github.com/dfrey8/DarkSouls-III-Remastered/releases/latest/download/DS3VR-Web-Setup.exe)**
+**[Скачать установщик для Windows · 45 КиБ](https://github.com/dfrey8/DarkSouls-III-Remastered/releases/latest/download/DS3VR-Web-Setup.exe)**
 
-Откройте EXE и нажмите **«Скачать и установить»**. Этой ссылкой можно поделиться с друзьями.
+Откройте EXE и нажмите **«Скачать и установить»**. Этой ссылкой можно поделиться с друзьями. При обновлении загрузчика закройте старое окно после паузы и выберите ту же папку, чтобы продолжить скачивание.
 
 Графическая модификация Dark Souls III для Steam. Установка рассчитана на Windows x64, .NET Framework 4.8, игру версии 1.15.2.0 и оба DLC.
 
