@@ -1,6 +1,6 @@
 # Dark Souls III Visual Reforged
 
-**[Скачать установщик для Windows · 45 КиБ](https://github.com/dfrey8/DarkSouls-III-Remastered/releases/latest/download/DS3VR-Web-Setup.exe)**
+**[Скачать установщик для Windows · 46,5 КиБ](https://github.com/dfrey8/DarkSouls-III-Remastered/releases/latest/download/DS3VR-Web-Setup.exe)**
 
 Откройте EXE и нажмите **«Скачать и установить»**. Этой ссылкой можно поделиться с друзьями. При обновлении загрузчика закройте старое окно после паузы и выберите ту же папку, чтобы продолжить скачивание.
 
